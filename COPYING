@@ -1,0 +1,55 @@
+Program name:
+  CDSfold
+
+License:
+  The source code of CDSfold contains functions obtained from the Vienna RNA package (version 2.1.1).
+  You have to follow the license of the ViennaRNA package as well as that described below.
+
+  The source code of CDSfold is provided as free software.
+  It is distributed in the hope that they will be useful
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+  Permission is granted for research, educational, and commercial use
+  and modification so long as
+  1) the package and any derived works are not
+     redistributed for any fee, other than media costs,
+  2) proper credit is given to the authors of reference [1] and the
+     Computational Biology Research Center, AIST, Japan,
+  3) proper credit is also given to the authors of ViennaRNA package (see below)
+     and the Institute for Theoretical Chemistry of the University of Vienna.
+
+Reference:
+[1] CDSfold: an algorithm for designing a protein-coding sequence with the most stable secondary structure
+Goro Terai, Satoshi Kamegai and Kiyoshi Asai, Bioinformatics. 2016 32:828-34. doi: 10.1093/bioinformatics/btv678.
+
+
+================== Lisense of ViennaRNA ============================
+Program name:
+  ViennaRNA package
+
+License:
+                Disclaimer and Copyright
+
+  The programs, library and source code of the Vienna RNA Package are free
+  software. They are distributed in the hope that they will be useful
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+  Permission is granted for research, educational, and commercial use
+  and modification so long as 1) the package and any derived works are not
+  redistributed for any fee, other than media costs, 2) proper credit is
+  given to the authors and the Institute for Theoretical Chemistry of the
+  University of Vienna.
+
+  If you want to include this software in a commercial product, please contact
+  the authors.
+
+Authors:
+  Ivo Hofacker   (all parts)
+  Peter Stadler  (design, documentation, cluster algorithms)
+  Walter Fontana (suboptimal folding, pre-historic implementation of mfe folding)
+  Stefan Wuchty  (suboptimal folding)
+  Stephan Bernhart (cofolding, local folding)
+  Ulli Mueckstein (RNAup)
+  Ronny Lorenz  (redesign for version 2.0, documentation, circfolding, RNA2Dfold, RNAparconv and more)
